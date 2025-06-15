@@ -52,7 +52,6 @@ This folder contains machine-readable ESG compliance rules...
 
 ### ✅ Example Rule Format
 
-```yaml
 id: SEC_ESG_001
 authority: SEC
 jurisdiction: US
@@ -61,17 +60,16 @@ required_fields:
 compliance_check:
   - field: "scope_1_2_emissions"
     must_exist: true
-```  <-- THIS IS THE CLOSING BACKTICK
 
 ---
 
-## 💡 **Vision**
+## 💡 Vision
 
 To become the logic layer of ESG regulation globally — ensuring transparency, automation, and trust in how ESG is measured and reported.
 
 ---
 
-## 📬 **Get in Touch**
+## 📬 Get in Touch
 
 📧 Email: io@esgascode.com  
 🌐 Website: [https://esgascode.com](https://esgascode.com) *(coming soon)*  
