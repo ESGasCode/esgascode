@@ -68,7 +68,7 @@ compliance_check:
   - field: "scope_1_2_emissions"
     must_exist: true
 
-```  ← (triple backticks alone on their own line)
+```
 
 ---
 
