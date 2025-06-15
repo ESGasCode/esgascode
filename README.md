@@ -46,6 +46,28 @@ Here’s how the components of the ESG-as-Code™ initiative work together:
 
 ---
 
+## 📁 Rule Packs (`/rules` Directory)
+
+This folder contains machine-readable ESG compliance rules for different jurisdictions.
+
+Each `.yaml` file defines:
+- The **authority** and **jurisdiction** (e.g., FCA UK, SFDR EU, SEC US)
+- Required ESG fields (e.g., emissions, risk disclosures)
+- Logic for compliance validation (e.g., must exist, minimum word count)
+
+### ✅ Example:
+```yaml
+id: SEC_ESG_001
+authority: SEC
+jurisdiction: US
+required_fields:
+  - scope_1_2_emissions
+compliance_check:
+  - field: "scope_1_2_emissions"
+    must_exist: true
+
+---
+
 ## 💡 Vision
 
 To become the logic layer of ESG regulation globally — ensuring transparency, automation, and trust in how ESG is measured and reported.
