@@ -1,0 +1,15 @@
+id: FCA_ESG_001
+title: "Climate Disclosure Requirement"
+jurisdiction: "UK"
+authority: "FCA"
+category: "Environmental"
+description: "Firms must disclose climate-related financial risks in line with TCFD."
+required_fields:
+  - governance_strategy
+  - risk_assessment
+  - emissions_data
+compliance_check:
+  - field: "emissions_data"
+    must_exist: true
+  - field: "risk_assessment"
+    min_words: 100
