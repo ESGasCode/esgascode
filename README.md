@@ -56,7 +56,7 @@ Each `.yaml` file defines:
 - Logic for compliance validation (e.g., must exist, minimum word count)
 
 ### ✅ Example:
-```yaml
+````yaml
 id: SEC_ESG_001
 authority: SEC
 jurisdiction: US
@@ -68,13 +68,13 @@ compliance_check:
 
 ---
 
-## 💡 Vision
+## 💡 **Vision**
 
 To become the logic layer of ESG regulation globally — ensuring transparency, automation, and trust in how ESG is measured and reported.
 
 ---
 
-## 📬 Get in Touch
+## 📬 **Get in Touch**
 
 📧 Email: io@esgascode.com  
 🌐 Website: [https://esgascode.com](https://esgascode.com) *(coming soon)*  
