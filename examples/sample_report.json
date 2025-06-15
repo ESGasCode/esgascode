@@ -1,4 +1,5 @@
 {
   "scope_1_2_emissions": 12345,
-  "governance_policy": "disclosed"
+  "governance_policy": "disclosed",
+  "climate_risk_disclosure": true
 }
