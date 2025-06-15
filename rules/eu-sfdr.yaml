@@ -1,0 +1,15 @@
+id: SFDR_ESG_001
+title: "Principal Adverse Impact Disclosure"
+jurisdiction: "EU"
+authority: "SFDR"
+category: "Environmental"
+description: "Financial market participants must disclose principal adverse impacts (PAIs) on sustainability factors."
+required_fields:
+  - greenhouse_gas_emissions
+  - biodiversity_impacts
+  - water_waste_metrics
+compliance_check:
+  - field: "greenhouse_gas_emissions"
+    must_exist: true
+  - field: "biodiversity_impacts"
+    must_exist: true
