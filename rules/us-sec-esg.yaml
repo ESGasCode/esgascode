@@ -1,0 +1,15 @@
+id: SEC_ESG_001
+title: "Climate-Related Risk Disclosure"
+jurisdiction: "US"
+authority: "SEC"
+category: "Environmental"
+description: "Public companies must disclose climate-related risks, governance, and emissions data in their filings."
+required_fields:
+  - board_oversight
+  - risk_management_process
+  - scope_1_2_emissions
+compliance_check:
+  - field: "scope_1_2_emissions"
+    must_exist: true
+  - field: "risk_management_process"
+    min_words: 100
