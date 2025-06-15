@@ -1,0 +1,8 @@
+{
+  "scope_1_emissions": "200 metric tons CO2e",
+  "scope_2_emissions": "450 metric tons CO2e",
+  "climate_risk_description": "We face both physical and transition risks due to extreme weather and evolving energy policy.",
+  "board_oversight_description": "The board oversees climate-related risks as part of the enterprise risk strategy.",
+  "scenario_analysis_used": "Yes, based on NGFS 2°C pathways.",
+  "ghg_assurance_statement": "Limited assurance provided by third-party verifier in 2023."
+}
