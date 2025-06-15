@@ -38,6 +38,14 @@ A RegTech SaaS platform for real-time ESG scoring, dashboards, and rule-based au
 
 ---
 
+## 🧠 ESG-as-Code™ Ecosystem
+
+Here’s how the components of the ESG-as-Code™ initiative work together:
+
+![ESG-as-Code Ecosystem](A_flowchart-style_diagram_in_black_and_white_illus.png)
+
+---
+
 ## 💡 Vision
 
 To become the logic layer of ESG regulation globally — ensuring transparency, automation, and trust in how ESG is measured and reported.
