@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Welcome to ESGasCode™
 
-<!--
-**ESGasCode/esgascode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Isaiah Owolabi — creator of **ESG-as-Code™**, a legal-tech framework turning ESG regulations into machine-readable rules.
 
-Here are some ideas to get you started:
+🔍 I’m building:
+- **ESGine** – A RegTech platform for real-time ESG scoring
+- **ESG-as-Code™** – The open-source rule engine for programmable ESG compliance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Featured project:
+👉 [ESG-as-Code™ GitHub Repository](https://github.com/ESGasCode/esgascode)
+
+🌍 Jurisdictional Scope:
+- 🇬🇧 UK: FCA ESG Ratings Regime
+- 🇪🇺 EU: SFDR & EU Taxonomy
+- 🇺🇸 US: SEC Climate Disclosure
+- 🌐 Global: ISSB (IFRS S1/S2)
+
+🚀 Let’s bring clarity to ESG, one rule at a time.
+
+📫 Reach me: io@esgascode.com  
+🌐 Website: https://esgascode.com *(coming soon)*
