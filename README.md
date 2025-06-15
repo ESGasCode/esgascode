@@ -1,21 +1,51 @@
-# 👋 Welcome to ESGasCode™
+# ESG-as-Code™ 🧩
 
-I’m Isaiah Owolabi — creator of **ESG-as-Code™**, a legal-tech framework turning ESG regulations into machine-readable rules.
+**ESG-as-Code™** is a legal-tech framework that transforms global ESG regulations into structured, machine-readable, and programmable logic.
 
-🔍 I’m building:
-- **ESGine** – A RegTech platform for real-time ESG scoring
-- **ESG-as-Code™** – The open-source rule engine for programmable ESG compliance
+I’m Isaiah Owolabi — a RegTech innovator focused on bridging the gap between policy and automation in environmental, social, and governance (ESG) compliance.
 
-🧩 Featured project:
-👉 [ESG-as-Code™ GitHub Repository](https://github.com/ESGasCode/esgascode)
+---
 
-🌍 Jurisdictional Scope:
-- 🇬🇧 UK: FCA ESG Ratings Regime
-- 🇪🇺 EU: SFDR & EU Taxonomy
-- 🇺🇸 US: SEC Climate Disclosure
-- 🌐 Global: ISSB (IFRS S1/S2)
+## 🔧 What I’m Building
 
-🚀 Let’s bring clarity to ESG, one rule at a time.
+### ⚙️ ESG-as-Code™  
+An open-source rule engine for automating ESG compliance  
+Built for developers, auditors, and regulators to:
+- Encode ESG rules from ISSB, FCA, SFDR, SEC, and more
+- Run auditable ESG checks
+- Power ESG-aware apps and platforms
 
-📫 Reach me: io@esgascode.com  
-🌐 Website: https://esgascode.com *(coming soon)*
+➡️ GitHub Repo: [ESG-as-Code™](https://github.com/ESGasCode/esgascode)
+
+---
+
+### 📊 ESGine *(Powered by ESG-as-Code™)*  
+A RegTech SaaS platform for real-time ESG scoring, dashboards, and rule-based automation.
+
+**ESGine** is the user-friendly interface layered on top of ESG-as-Code™ — designed for:
+- SMEs & Enterprises managing ESG disclosures
+- Investors & rating agencies needing fast ESG validation
+- Legal teams ensuring regulatory alignment
+
+---
+
+## 🌍 Regulatory Scope
+
+- 🇬🇧 **UK** – FCA ESG Ratings Regime  
+- 🇪🇺 **EU** – SFDR, EU Taxonomy  
+- 🇺🇸 **US** – SEC Climate Disclosure  
+- 🌐 **Global** – ISSB (IFRS S1 & S2)
+
+---
+
+## 💡 Vision
+
+To become the logic layer of ESG regulation globally — ensuring transparency, automation, and trust in how ESG is measured and reported.
+
+---
+
+## 📬 Get in Touch
+
+📧 Email: io@esgascode.com  
+🌐 Website: [https://esgascode.com](https://esgascode.com) *(coming soon)*  
+GitHub: [@ESGasCode](https://github.com/ESGasCode)
