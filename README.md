@@ -61,9 +61,20 @@ compliance_check:
   - field: "scope_1_2_emissions"
     must_exist: true
 
+```yaml
+id: SEC_ESG_001
+authority: SEC
+jurisdiction: US
+required_fields:
+  - scope_1_2_emissions
+compliance_check:
+  - field: "scope_1_2_emissions"
+    must_exist: true
+
+
 ---
 
-## 💡 Vision
+## 💡 **Vision**
 
 To become the logic layer of ESG regulation globally — ensuring transparency, automation, and trust in how ESG is measured and reported.
 
