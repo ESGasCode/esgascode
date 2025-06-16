@@ -50,3 +50,67 @@ For any questions, email us at [io@esgascode.com](mailto:io@esgascode.com)
 
 _Last updated: June 15, 2025_
 
+--
+
+🤝 Contributing to ESG-as-Code™
+Thank you for your interest in contributing to ESG-as-Code™ — a legal-tech framework transforming ESG regulations into programmable, machine-readable rules.
+
+We welcome contributions from legal experts, technologists, ESG auditors, researchers, and anyone passionate about advancing ESG compliance and RegTech.
+
+🚀 How to Contribute
+Fork this repository to your GitHub account.
+
+Create a new branch from dev (or main if no dev exists):
+
+bash
+Copy
+Edit
+git checkout -b feature/your-feature-name
+Make your changes:
+
+Add or edit ESG rule files (.yaml, .json)
+
+Improve the rule engine (parser.py, rule_engine.py)
+
+Write documentation or tests
+
+Commit and push:
+
+bash
+Copy
+Edit
+git commit -m "Describe your feature or fix"
+git push origin feature/your-feature-name
+Open a Pull Request to main (or dev) with a clear title and description.
+
+📌 Contribution Guidelines
+🔍 Ensure ESG logic aligns with major frameworks (FCA, SFDR, SEC, ISSB, CSRD)
+
+📄 Use clear commit messages and inline documentation
+
+🧱 Keep rule files modular, auditable, and well-commented
+
+✅ Test your changes locally before submitting
+
+🔐 Never include secrets or proprietary data
+
+💬 Maintain a respectful, inclusive tone in all interactions
+
+👥 Pull Requests require at least one approval before merge (enforced via branch protection)
+
+🧪 Development Notes
+Store all rules in the /rules directory using clear names (e.g., uk-fca-esg.yaml)
+
+Python logic should follow PEP8 and be stored in /engine or /core
+
+Include test cases under /tests where relevant
+
+All contributions must be license-compatible (MIT or Apache 2.0)
+
+Open an Issue first if your contribution is large, experimental, or regulatory-sensitive
+
+📬 Contact
+Questions or ideas?
+Email: io@esgascode.com
+
+Last updated: June 15, 2025
