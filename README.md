@@ -2,20 +2,21 @@
 
 **ESG-as-Code™** is a legal-tech framework that transforms global ESG regulations into structured, machine-readable, and programmable logic.
 
-I’m Isaiah Owolabi — a RegTech innovator focused on bridging the gap between policy and automation in environmental, social, and governance (ESG) compliance.
+I’m **Isaiah Owolabi** — a RegTech innovator focused on bridging the gap between policy and automation in environmental, social, and governance (ESG) compliance.
 
 ---
 
 ## 🔧 What I’m Building
 
 ### ⚙️ ESG-as-Code™  
-An open-source rule engine for automating ESG compliance  
-Built for developers, auditors, and regulators to:
-- Encode ESG rules from ISSB, FCA, SFDR, SEC, and more
-- Run auditable ESG checks
-- Power ESG-aware apps and platforms
+An open-source rule engine for automating ESG compliance.
 
-➡️ GitHub Repo: [ESG-as-Code™](https://github.com/ESGasCode/esgascode)
+Built for developers, auditors, and regulators to:
+- Encode ESG rules from **ISSB**, **FCA**, **SFDR**, **SEC**, and more
+- Run **auditable ESG checks**
+- Power **ESG-aware apps and platforms**
+
+➡️ GitHub Repo: [ESG-as-Code™] (https://github.com/ESGasCode/esgascode)
 
 ---
 
@@ -23,18 +24,21 @@ Built for developers, auditors, and regulators to:
 A RegTech SaaS platform for real-time ESG scoring, dashboards, and rule-based automation.
 
 **ESGine** is the user-friendly interface layered on top of ESG-as-Code™ — designed for:
-- SMEs & Enterprises managing ESG disclosures
-- Investors & rating agencies needing fast ESG validation
-- Legal teams ensuring regulatory alignment
+- **SMEs & Enterprises** managing ESG disclosures
+- **Investors & rating agencies** needing fast ESG validation
+- **Legal teams** ensuring regulatory alignment
+
 
 ---
 
 ## 🌍 Regulatory Scope
 
-- 🇬🇧 **UK** – FCA ESG Ratings Regime  
-- 🇪🇺 **EU** – SFDR, EU Taxonomy  
-- 🇺🇸 **US** – SEC Climate Disclosure  
-- 🌐 **Global** – ISSB (IFRS S1 & S2)
+| Jurisdiction | Coverage |
+|--------------|----------|
+| 🇬🇧 UK        | FCA ESG Ratings Regime |
+| 🇪🇺 EU        | SFDR, EU Taxonomy |
+| 🇺🇸 US        | SEC Climate Disclosure |
+| 🌐 Global    | ISSB (IFRS S1 & S2) |
 
 ---
 
@@ -56,7 +60,7 @@ Each `.yaml` file defines:
 - **Required ESG Fields** — e.g., emissions, risk disclosures  
 - **Compliance Logic** — e.g., `must_exist`, `min_words`
 
-### ✅ Example Rule Format
+### ✅ Sample Rule Format
 
 ```yaml
 id: SEC_ESG_001
@@ -74,13 +78,14 @@ compliance_check:
 
 ## 💡 **Vision**
 
-To become the logic layer of ESG regulation globally — ensuring transparency, automation, and trust in how ESG is measured and reported.
+To become the **logic layer of ESG regulation** globally — ensuring transparency, automation, and trust in how ESG is measured and reported.
 
 ---
 
 ## 📌 Legal Notice
 
-ESG-as-Code™ is not affiliated with, endorsed by, or officially recognized by any regulator. Rule logic is derived from public documents for educational and compliance support only.
+**ESG-as-Code™** is not affiliated with, endorsed by, or officially recognized by any regulator. 
+Rules are derived from publicly available regulatory documentation for educational and compliance prototyping only.
 
 See [NOTICE.md](./NOTICE.md) for full disclaimer and attribution.
 
@@ -88,7 +93,8 @@ See [NOTICE.md](./NOTICE.md) for full disclaimer and attribution.
 
 ## 📬 Get in Touch
 
-📧 Email: io@esgascode.com  
-🌐 Website: [https://esgascode.com](https://esgascode.com) *(coming soon)*  
-GitHub: [@ESGasCode](https://github.com/ESGasCode)
+📧 Email: io@esgascode.com
+🌐 Website: https://esgascode.com (coming soon)
+🐙 GitHub: @ESGasCode
+
 
