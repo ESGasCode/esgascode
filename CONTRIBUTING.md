@@ -28,19 +28,23 @@ We welcome contributions from **legal experts, technologists, ESG auditors, rese
 
 ## 📌 Contribution Guidelines
 
-- 🔍 Ensure compliance logic aligns with ESG regulatory standards (FCA, SFDR, SEC, ISSB, etc.)
-- 📄 Provide clear commit messages and documentation for your changes
-- 🧱 Keep rule files modular and easy to audit
-- ✅ Test your changes before submission
-- 💬 Be respectful and constructive in all discussions
+- 🔍 Ensure ESG logic aligns with major frameworks (FCA, SFDR, SEC, ISSB, CSRD)
+- 📄 Use clear commit messages and inline documentation
+- 🧱 Keep rule files modular, auditable, and well-commented
+- ✅ Test your changes locally before submitting
+- 🔐 Never include secrets or proprietary data
+- 💬 Maintain a respectful, inclusive tone in all interactions
+- 👥 Pull Requests require at least one approval before merge (enforced via branch protection)
 
 ---
 
 ## 🧪 Development Notes
 
-- Rules should be stored in `/rules` folder using clear naming conventions (e.g., `uk-fca-esg.yaml`)
-- Contributions must be license-compatible with the repository (MIT or Apache 2.0)
-- If you're unsure about your idea or contribution, [open an issue](https://github.com/ESGasCode/esgascode/issues) first to discuss
+- Store all rules in the /rules directory using clear names (e.g., uk-fca-esg.yaml)
+- Python logic should follow PEP8 and be stored in /engine or /core
+- Include test cases under /tests where relevant
+- All contributions must be license-compatible (MIT or Apache 2.0)
+- Open an Issue first if your contribution is large, experimental, or regulatory-sensitive
 
 ---
 
@@ -48,5 +52,5 @@ We welcome contributions from **legal experts, technologists, ESG auditors, rese
 
 For any questions, email us at [io@esgascode.com](mailto:io@esgascode.com)
 
-_Last updated: June 15, 2025_
+_Last updated: June 16, 2025_
 
