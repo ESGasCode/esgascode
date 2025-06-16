@@ -50,6 +50,14 @@ Here’s how the components of the ESG-as-Code™ initiative work together:
 
 ---
 
+## 🧠 ESG-as-Code Rule Engine Flow
+
+This diagram shows how ESGine transforms ESG report data into automated compliance outputs using the ESG-as-Code™ framework.
+
+![ESGine Architecture Outline](assets/esgine-architecture-outline.png)
+
+---
+
 ## 📁 Rule Packs (`/rules` Directory)
 
 This folder contains machine-readable ESG compliance rules for different jurisdictions.
