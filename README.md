@@ -78,6 +78,14 @@ To become the logic layer of ESG regulation globally — ensuring transparency, 
 
 ---
 
+## 📌 Legal Notice
+
+ESG-as-Code™ is not affiliated with, endorsed by, or officially recognized by any regulator. Rule logic is derived from public documents for educational and compliance support only.
+
+See [NOTICE.md](./NOTICE.md) for full disclaimer and attribution.
+
+---
+
 ## 📬 Get in Touch
 
 📧 Email: io@esgascode.com  
